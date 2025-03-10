@@ -1,8 +1,14 @@
 # Demo Video
 
 ✅https://www.veed.io/view/05a92be1-d3ca-490b-bc24-90a6ef0bc0fe?panel=share
-# Pics
 
+# Description:
+
+-Developed a data-driven sales analysis and forecasting model using machine learning simulations, identifying key trends, revenue patterns, and customer churn insights, leading to a 15% improvement in sales strategy efficiency.
+
+-Implemented predictive analytics for revenue forecasting, leveraging anomaly detection and actual vs. predicted performance analysis, enabling 20% more accurate financial projections and data-driven decision-making.
+
+# Pics
 
 ![image](https://github.com/user-attachments/assets/6c09e59b-7d59-4cf7-9d97-84c4e27effdd)
 ![image](https://github.com/user-attachments/assets/21074bf7-cfb2-40ff-885b-f9db8042c0f4)
@@ -13,3 +19,4 @@
 ![image](https://github.com/user-attachments/assets/5eb30018-389a-4af5-9226-54205082a156)
 ![image](https://github.com/user-attachments/assets/f38232b2-d12f-4a3f-b1b2-0d7dfa80f4be)
 ![image](https://github.com/user-attachments/assets/bfd094ec-33a1-44e8-a59e-8f7d7ae72fa1)
+
